@@ -1,8 +1,8 @@
 I have successfully done testing of CRUD operation in JSONPlaceholder API.
 I have used Google Test and C++ REST SDK for implementing the testing.
 
-![Screenshot from 2024-07-13 17-03-10](https://github.com/user-attachments/assets/a28dac93-eac7-4030-ac8c-4793e7e4aef2)
-![Screenshot from 2024-07-13 17-03-01](https://github.com/user-attachments/assets/4279f257-32b5-4868-b876-c4f13a70cff0)
+![image2](https://github.com/user-attachments/assets/b22caab2-df2d-4499-bac2-43eabab6763c)
+![image1](https://github.com/user-attachments/assets/245a08ea-b7da-4ff5-8472-e5f1ab3fc635)
 
 Above is the result of the testing. The result indicate the following conclusions:
 1) In total, 6 tests from 4 suites were running.
